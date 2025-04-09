@@ -1,6 +1,5 @@
 # DUT
 Discrete Unification Theory
-# Discrete Unification Theory (DUT)
 
 # Discrete Unification Theory (DUT)
 
