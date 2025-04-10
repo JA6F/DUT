@@ -73,3 +73,47 @@ Scholars, researchers, and enthusiasts are invited to engage with this project. 
 - **Email**: [jgrau@live.com](mailto:jgrau@live.com)  
 
 For academic inquiries, discussions, or collaborative opportunities, please reach out via email.
+## "Keywords"
+## Keywords / Palabras clave
+- Discrete Unification Theory
+- General Relativity
+- Quantum Mechanics
+- Non-Commutative Geometry
+- Dark Matter
+- Dark Energy
+- Cosmological Constant
+- Quantum Gravity
+- Theoretical Physics
+- Particle Physics
+- Scalar Fields
+- Higgs Boson
+- Emergent Gravity
+- Astrophysics
+- Mathematical Frameworks
+- Quantum Phenomena
+- Cosmology
+- Quantum Hierarchy Problem
+- Experimental Predictions
+- Unified Framework
+
+- Teoría de la Unificación Discreta
+- Relatividad General
+- Mecánica Cuántica
+- Geometría No Conmutativa
+- Materia Oscura
+- Energía Oscura
+- Constante Cosmológica
+- Gravedad Cuántica
+- Física Teórica
+- Física de Partículas
+- Campos Escalares
+- Bosón de Higgs
+- Gravedad Emergente
+- Astrofísica
+- Marcos Matemáticos
+- Fenómenos Cuánticos
+- Cosmología
+- Problema de Jerarquía Cuántica
+- Predicciones Experimentales
+- Marco Unificado
+
