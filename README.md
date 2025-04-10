@@ -1,6 +1,10 @@
 # DUT
 Discrete Unification Theory
 
+/docs
+   - TUDv17.9_Ingles.pdf
+   - TUDv17.8_Espanol.pdf
+
 # Discrete Unification Theory (DUT)
 
 The **Discrete Unification Theory (DUT)** proposes a novel theoretical framework designed to address fundamental issues in physics. By integrating concepts from General Relativity and Quantum Mechanics into a dynamic non-commutative geometric structure, the theory aims to resolve long-standing inconsistencies and provide new insights into the nature of the universe.
