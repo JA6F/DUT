@@ -1,4 +1,4 @@
-# DUT
+# dut
 Discrete Unification Theory
 
 # Repository Contents
