@@ -65,13 +65,10 @@ This repository serves as a platform to share the theoretical foundation of DUT,
 ## Contribution Opportunities
 
 Scholars, researchers, and enthusiasts are invited to engage with this project. Contributions may include:
+
 - Suggestions for refinement or expansion of the theoretical framework.
 - Critical evaluations of the proposed mechanisms and predictions.
 - Experimental or observational insights to strengthen the theory's testability.
-- ## Contribution Opportunities
-
-Academics, researchers, and enthusiasts are invited to participate in this project. Contributions may include:
-
 - Suggestions for refining or expanding the theoretical framework.
 - Critical evaluations of the proposed mechanisms and predictions.
 - Experimental or observational ideas to strengthen the testability of the theory.
