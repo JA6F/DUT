@@ -58,9 +58,8 @@ This repository serves as a platform to share the theoretical foundation of DUT,
 
 ## Repository Contents
 
--  The comprehensive theoretical manuscript (./TUDv17.9_Ingles.pdf) outlining the principles and implications of the DUT framework.
-- **Supplementary Resources**: Supporting materials that include mathematical derivations, detailed explanations, and references for further exploration.
-
+- [TUDv17.9_Ingles.pdf](./TUDv17.9_Ingles.pdf): The main document outlining the Discrete Unification Theory.
+- [TUDv17.8_Spanish.pdf](./TUDv17.8_Spanish.pdf): Spanish version of the theory.
 ---
 
 ## Contribution Opportunities
