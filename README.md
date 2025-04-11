@@ -5,7 +5,7 @@ Discrete Unification Theory
 - [TUDv17.9_Ingles.pdf](./TUDv17.9_Ingles.pdf): The main document outlining the Discrete Unification Theory.
 - [TUDv17.8_Spanish.pdf](./TUDv17.8_Spanish.pdf): Spanish version of the theory.
 
-- ![DUT](OIG23.ZNLJ.PNG)
+- ![DUT IMAGE](OIG23.ZNLJ.PNG)
 
 # Discrete Unification Theory (DUT)
 
