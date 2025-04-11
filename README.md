@@ -58,7 +58,7 @@ This repository serves as a platform to share the theoretical foundation of DUT,
 
 ## Repository Contents
 
-- **Primary Document**: The comprehensive theoretical manuscript (`TUDv17.9.pdf`) outlining the principles and implications of the DUT framework.
+- **Primary Document**: The comprehensive theoretical manuscript (`TUDv17.9_Ingles.pdf`) outlining the principles and implications of the DUT framework.
 - **Supplementary Resources**: Supporting materials that include mathematical derivations, detailed explanations, and references for further exploration.
 
 ---
