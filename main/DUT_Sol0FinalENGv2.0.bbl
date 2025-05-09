@@ -1,0 +1,616 @@
+\begin{thebibliography}{75}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Peskin and Schroeder(1995)]{PeskinSchroeder1995}
+Michael~E. Peskin and Daniel~V. Schroeder.
+\newblock \emph{{An Introduction to Quantum Field Theory}}.
+\newblock Addison-Wesley, Reading, USA, 1995.
+\newblock ISBN 978-0-201-50397-5, 978-0-429-50355-9.
+\newblock \doi{10.1201/9780429503559}.
+\newblock 842 p.
+
+\bibitem[Weinberg(1995)]{WeinbergQFT1}
+Steven Weinberg.
+\newblock \emph{{The Quantum Theory of Fields, Vol. 1: Foundations}}.
+\newblock Cambridge University Press, 1995.
+\newblock ISBN 978-0-521-55001-7.
+\newblock \doi{10.1017/CBO9781139644167}.
+\newblock URL \url{https://inspirehep.net/literature/406190}.
+
+\bibitem['t~Hooft and Veltman(1974)]{tHooft1974}
+Gerard 't~Hooft and Martinus Veltman.
+\newblock {One-Loop Divergencies in the Theory of Gravitation}.
+\newblock \emph{Ann. Inst. H. Poincar{\'e} A}, 20:\penalty0 69--94, 1974.
+\newblock URL \url{http://www.numdam.org/item/AIHPA_1974__20_1_69_0/}.
+
+\bibitem[Weinberg(1979)]{Weinberg1979}
+Steven Weinberg.
+\newblock {Ultraviolet divergences in quantum theories of gravitation}.
+\newblock In Stephen~W. Hawking and Werner Israel, editors, \emph{{General
+  Relativity: An Einstein Centenary Survey}}, pages 790--831. Cambridge
+  University Press, Cambridge, UK, 1979.
+\newblock ISBN 978-0-521-22285-3.
+\newblock URL \url{https://inspirehep.net/literature/141503}.
+
+\bibitem[Labb{\'e} et~al.(2023)Labb{\'e}, van Dokkum, Nelson, Bezanson, Suess,
+  Leja, Brammer, Wang, Whitaker, Mathews, Stefanon, and Price]{Labbe:2023}
+Ivo Labb{\'e}, Pieter van Dokkum, Erica~J. Nelson, Rachel Bezanson,
+  Katherine~A. Suess, Joel Leja, Gabriel Brammer, Bingjie Wang, Katherine~E.
+  Whitaker, Elijah Mathews, Mauro Stefanon, and Sedona~H. Price.
+\newblock {A population of red candidate massive galaxies \textasciitilde{}600
+  Myr after the Big Bang}.
+\newblock \emph{Nature}, 616\penalty0 (7956):\penalty0 266--269, apr 2023.
+\newblock \doi{10.1038/s41586-023-05786-2}.
+\newblock URL \url{https://doi.org/10.1038/s41586-023-05786-2}.
+
+\bibitem[Ba{\~n}ados et~al.(2018)]{Banados:2017unc}
+Eduardo Ba{\~n}ados et~al.
+\newblock {An 800-million-solar-mass black hole in a significantly neutral
+  Universe at redshift 7.5}.
+\newblock \emph{Nature}, 553\penalty0 (7689):\penalty0 473--476, 2018.
+\newblock \doi{10.1038/nature25180}.
+
+\bibitem[Volonteri(2012)]{Volonteri:2010wz}
+Marta Volonteri.
+\newblock {Formation of {Supermassive} {Black} {Holes}}.
+\newblock \emph{Astron. Astrophys. Rev.}, 20\penalty0 (1):\penalty0 56, 2012.
+\newblock \doi{10.1007/s00159-012-0058-z}.
+
+\bibitem[Abdalla et~al.(2023)Abdalla, Abell{\'a}n, Aboubrahim, Agnello, Akarsu,
+  Akrami, Alestas, Aloni, Amendola, Anchordoqui, Arendse, Asgari, Ballardini,
+  Basilakos, Battistelli, Ben-Dayan, Benisty, Birrer, Blanco-Pillado, Blinov,
+  Boddy, Bonilla, Braglia, Bucher, Buckley, Burgers, Calcinardi, Calderon,
+  Camera, Capozziello, Casalino, Casas, Cassel, Castaneda-Vazquez, Clark,
+  Colg{\'a}in, Colin, Conlon, Corasaniti, Croker, D'Agostino, Dainotti, Daniel,
+  Davis, de~Cruz~P{\'e}rez, Del~Popolo, Desai, Dhani, Di~Clemente,
+  Di~Valentino, D{\'\i}az, Dimastrogiovanni, Dor{\'e}, Du, Escamilla, Eskilt,
+  Finelli, Fishbach, Frusciante, Garc{\'\i}a-Bellido, Garc{\'\i}a-Garc{\'\i}a,
+  Germain, Glanville, Gogoi, Goldstein, Gonzalez, Gordon, Gorjian, Goswami,
+  Govender, Graef, Granda, Grassi, Graziani, Green, Gualtieri, Guendelman, Guo,
+  Gupta, Halpern, Handley, Hazra, Hee, Heisenberg, Hendry, Hojjati, Holz,
+  Hooper, Huterer, Ishak, Ivanov, Jain, J{\'a}quez, Jedamzik, Jenkins, Jimenez,
+  Joseph, Kamdar, Kamionkowski, Karwal, Kazantzidis, Keeley, Krishnan,
+  Kuroyanagi, Łukaszewski, Levi~Said, Linder, Lin, Lizardo, Lu, Lucca,
+  Maartens, Magueijo, Maleknejad, Malik, Malvimat, Marfatia, Martinelli,
+  Martins, Mart{\'\i}nez-Mirav{\'e}, Mazumdar, Mazurenko, Mehrabi, Melchiorri,
+  Mena, Miller, Miranda, Mischler, Mohanty, Molaro, Montanari, Moraes,
+  M{\"o}rtsell, Mota, Mukherjee, Muir, Murai, Myrzakulov, Nakamura, Nan, Nunes,
+  Oikonomou, {\"O}kc{\"u}, Ozulker, Pan, Pandey, Peacock, Pettorino, Piga,
+  Pogosian, Pospelov, Pourhassan, Poulin, Raatikainen, Rafiei~Karkevandi,
+  Rashkovetskyi, Rattanasoon, Ravanpak, Reid, Reischke, Renzi, Riess, Rigault,
+  Romano, Ruchika, Rumsey, Sakr, Sakstein, Sales~de Lima, Salzano, Saridakis,
+  Sarkar, Schmidt, Schneider, Sch{\"o}neberg, Schutz, Sen, Sharma, Sheppard,
+  Shirokov, Singh, Slagter, Slosar, Sloth, Smith, Sol{\`a}~Peracaula, Solomon,
+  Spolyar, Steinwachs, Tamfal, Tamanini, Tent, Thomas, Toms, Tully, Vagnozzi,
+  Valcin, Vernieri, Verde, Vetrugno, Vikram, Visinelli, Wang, Wang, Wang,
+  Watanabe, Wechsler, Weiler, Westbrook, Wetterich, White, Whitt, Wolf, Wojtak,
+  Yang, Yeung, Yıldırım, and Zumalac{\'a}rregui]{Abdalla:2022}
+Elcio Abdalla, Guillermo~Franco Abell{\'a}n, Amin Aboubrahim, Adriano Agnello,
+  {\"O}zg{\"u}r Akarsu, Yashar Akrami, George Alestas, Daniel Aloni, Luca
+  Amendola, Luis~A. Anchordoqui, Nils Arendse, Marika Asgari, Mario Ballardini,
+  Spyros Basilakos, Elia~S. Battistelli, Ido Ben-Dayan, David Benisty, Simon
+  Birrer, Jose~J. Blanco-Pillado, Nikita Blinov, Kimberly~K. Boddy, Alexander
+  Bonilla, Marco Braglia, Martin Bucher, Matthew~R. Buckley, Stefanie Burgers,
+  Stefano Calcinardi, Raul Calderon, Stefano Camera, Salvatore Capozziello,
+  Andrea Casalino, Scarlett Casas, Sebastian Cassel, Daniel~F.
+  Castaneda-Vazquez, H.~Alyson Clark, Eoin~{\'O}. Colg{\'a}in, Jeanne Colin,
+  Joseph~P. Conlon, Pier~Stefano Corasaniti, Kevin~S. Croker, Rafael
+  D'Agostino, Maria~Giovanna Dainotti, Scott~F. Daniel, Anne-Christine Davis,
+  {\'O}scar de~Cruz~P{\'e}rez, Antonino Del~Popolo, Shantanu Desai, Arjun
+  Dhani, Arianna Di~Clemente, Eleonora Di~Valentino, Mariam~Tortola D{\'\i}az,
+  Emanuela Dimastrogiovanni, Olivier Dor{\'e}, Ming-Xin Du, Luis~A. Escamilla,
+  Jostein~R. Eskilt, Fabio Finelli, Maya Fishbach, Noemi Frusciante, Juan
+  Garc{\'\i}a-Bellido, C{\'e}sar Garc{\'\i}a-Garc{\'\i}a, Gabriel Germain,
+  Amber Glanville, Debapriya Gogoi, Gregory~R. Goldstein, Jos{\'e}~Javier
+  Gonzalez, Chris Gordon, Varoujan Gorjian, Gourav Goswami, K.~Govender,
+  Leila~L. Graef, Luis~Nelson Granda, Silvia Grassi, Riccardo Graziani,
+  Gregory~R. Green, Leonardo Gualtieri, Eduardo~I. Guendelman, Zhao-Li Guo,
+  Pankaj Gupta, Paul Halpern, Will Handley, Dhiraj~Kumar Hazra, Siew~Phung Hee,
+  Lavinia Heisenberg, Martin Hendry, Alireza Hojjati, Daniel~E. Holz, Dan
+  Hooper, Dragan Huterer, Mustapha Ishak, Mikhail~M. Ivanov, Bhooshan Jain,
+  Daniel~Mart{\'\i}n J{\'a}quez, Karsten Jedamzik, Alejandro Jenkins, Raul
+  Jimenez, Amal Joseph, Harsh Kamdar, Marc Kamionkowski, Tanvi Karwal,
+  Lavrentios Kazantzidis, Ryan~E. Keeley, Chethan Krishnan, Sachiko Kuroyanagi,
+  Mariusz Łukaszewski, Jackson Levi~Said, Eric~V. Linder, Wei-Ting Lin,
+  Tomas~R. Lizardo, Jun-Qing Lu, Matteo Lucca, Roy Maartens, Jo{\~a}o Magueijo,
+  Azadeh Maleknejad, Karim~A. Malik, Vinutha Malvimat, Danny Marfatia, Mario
+  Martinelli, C.~J. A.~P. Martins, Pau Mart{\'\i}nez-Mirav{\'e}, Anupam
+  Mazumdar, Maksym Mazurenko, Ahmad Mehrabi, Alessandro Melchiorri, Olga Mena,
+  Lindsay Miller, Vivian Miranda, Thomas Mischler, Subhendra Mohanty, Paolo
+  Molaro, Francesco Montanari, P.~H. R.~S. Moraes, Edvard M{\"o}rtsell,
+  David~F. Mota, Suvodip Mukherjee, Jessica Muir, Kai Murai, Ratbay Myrzakulov,
+  Kouji Nakamura, Hong-Li Nan, Rafael~C. Nunes, V.~K. Oikonomou, Z.~Gedik
+  {\"O}kc{\"u}, H.~Deniz Ozulker, Supriya Pan, Kanhaiya~L. Pandey, John~A.
+  Peacock, Valeria Pettorino, Leonardo Piga, Levon Pogosian, Maxim Pospelov,
+  Behnam Pourhassan, Vivian Poulin, Suvi-Leena Raatikainen, Daryoush
+  Rafiei~Karkevandi, Roman Rashkovetskyi, Nandan Rattanasoon, Ana Ravanpak,
+  Miles~J. Reid, Robert Reischke, Francesco Renzi, Adam~G. Riess, Mickael
+  Rigault, Antonio~E. Romano, R.~Ruchika, Christopher~J. Rumsey, Zeinab Sakr,
+  Jeremy Sakstein, Tiago Sales~de Lima, Vincenzo Salzano, Emmanuel~N.
+  Saridakis, Debottam Sarkar, Fabian Schmidt, Aurel Schneider, Nils
+  Sch{\"o}neberg, Kaze~W. Schutz, Anjan~A. Sen, Shreya Sharma, Conor~J.
+  Sheppard, Alexander~V. Shirokov, Tejinder~P. Singh, Reinoud~Jan Slagter, Anze
+  Slosar, Martin~S. Sloth, Tristan~L. Smith, Joan Sol{\`a}~Peracaula, Adam~R.
+  Solomon, Douglas Spolyar, Christian~F. Steinwachs, Tomislav Tamfal, Nicola
+  Tamanini, Benno van~de Tent, Daniel~B. Thomas, David~J. Toms, R.~Brent Tully,
+  Sunny Vagnozzi, David Valcin, Daniele Vernieri, Licia Verde, Daniele
+  Vetrugno, Vinu Vikram, Luca Visinelli, Deng Wang, Shao-Jiang Wang, Xin-Min
+  Wang, Yuki Watanabe, Risa~H. Wechsler, Thomas~J. Weiler, Nathan Westbrook,
+  Christof Wetterich, Martin White, Brandon Whitt, Martin~J. Wolf, Radosław
+  Wojtak, Weiqiang Yang, Sherman Yeung, Ay{\c c}a Yıldırım, and Miguel
+  Zumalac{\'a}rregui.
+\newblock {Cosmology intertwined: A review of the particle physics,
+  astrophysics, and cosmology associated with the cosmological tensions and
+  anomalies}.
+\newblock \emph{J. High Energy Astrophys.}, 38:\penalty0 47--115, jun 2023.
+\newblock \doi{10.1016/j.jheap.2023.03.001}.
+\newblock URL \url{https://doi.org/10.1016/j.jheap.2023.03.001}.
+
+\bibitem[Aghanim et~al.(2020)]{Planck:2018vyg}
+N.~Aghanim et~al.
+\newblock {{{Planck} 2018 results. {VI}. Cosmological parameters}}.
+\newblock \emph{Astron. Astrophys.}, 641:\penalty0 A6, 2020.
+\newblock \doi{10.1051/0004-6361/201833910}.
+\newblock [Erratum: Astron.Astrophys. 652, C4 (2021)].
+
+\bibitem[Abbott et~al.(2023)]{LVK:GWTC3}
+R.~Abbott et~al.
+\newblock {GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo
+  During the Second Part of the Third Observing Run}.
+\newblock \emph{Phys. Rev. X}, 13\penalty0 (4):\penalty0 041039, 2023.
+\newblock \doi{10.1103/PhysRevX.13.041039}.
+
+\bibitem[Agazie et~al.(2023)]{NANOGrav:2023gor}
+Gabriella Agazie et~al.
+\newblock {The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave
+  Background}.
+\newblock \emph{Astrophys. J. Lett.}, 951\penalty0 (1):\penalty0 L8, 2023.
+\newblock \doi{10.3847/2041-8213/acdac6}.
+
+\bibitem[{LHAASO Collaboration}(2024)]{LHAASO_GRB221009A_LIV}
+{LHAASO Collaboration}.
+\newblock {Constraints on the violation of {Lorentz} invariance from {LHAASO}
+  observations of {GRB} 221009A}.
+\newblock \emph{Sci. Bull.}, 69\penalty0 (3):\penalty0 283--290, 2024.
+\newblock \doi{10.1016/j.scib.2023.11.022}.
+
+\bibitem[Akiyama et~al.(2022)]{EHT:SgrA_PaperI}
+Kazunori Akiyama et~al.
+\newblock {First Sagittarius A* Event Horizon Telescope Results. I. The Shadow
+  of the Supermassive Black Hole in the Center of the Milky Way}.
+\newblock \emph{Astrophys. J. Lett.}, 930\penalty0 (2):\penalty0 L12, 2022.
+\newblock \doi{10.3847/2041-8213/ac6674}.
+
+\bibitem[Connes(1994)]{Connes1994}
+Alain Connes.
+\newblock \emph{{Noncommutative Geometry}}.
+\newblock Academic Press, 1994.
+\newblock ISBN 978-0121858605.
+\newblock URL
+  \url{https://www.amazon.com/Noncommutative-Geometry-Alain-Connes/dp/012185860X}.
+\newblock 661 p.
+
+\bibitem[Madore(1995)]{Madore1995}
+John Madore.
+\newblock \emph{{An Introduction to Noncommutative Differential Geometry and
+  its Physical Applications}}, volume 206 of \emph{London Mathematical Society
+  Lecture Note Series}.
+\newblock Cambridge University Press, 1995.
+\newblock ISBN 978-0-521-46791-1.
+\newblock \doi{10.1017/CBO9780511569302}.
+\newblock 299 p. (First Edition).
+
+\bibitem[Gracia-Bondia et~al.(2001)Gracia-Bondia, Varilly, and
+  Figueroa-O'Farrill]{GraciaBondia2001NCG}
+Jose~M. Gracia-Bondia, Joseph~C. Varilly, and Hector Figueroa-O'Farrill.
+\newblock \emph{{Elements of Noncommutative Geometry}}.
+\newblock Birkh{\"a}user, Boston, 2001.
+\newblock ISBN 978-0-8176-4124-5.
+\newblock \doi{10.1007/978-1-4612-0005-5}.
+\newblock 685 p.
+
+\bibitem[Chamseddine and Connes(1997)]{ConnesChamseddine1997}
+Ali~H. Chamseddine and Alain Connes.
+\newblock {The Spectral action principle}.
+\newblock \emph{Commun. Math. Phys.}, 186\penalty0 (3):\penalty0 731--779,
+  1997.
+\newblock \doi{10.1007/s002200050126}.
+
+\bibitem[Vassilevich(2003)]{Vassilevich2003HeatKernel}
+Dmitri~V. Vassilevich.
+\newblock {Heat kernel expansion: User's manual}.
+\newblock \emph{Phys. Rept.}, 388:\penalty0 279--360, 2003.
+\newblock \doi{10.1016/j.physrep.2003.09.002}.
+
+\bibitem[Kontsevich(2003)]{Kontsevich2003Deformation}
+Maxim Kontsevich.
+\newblock {Deformation quantization of {Poisson} manifolds}.
+\newblock \emph{Lett. Math. Phys.}, 66:\penalty0 157--216, 2003.
+\newblock \doi{10.1023/B:MATH.0000027508.00421.bf}.
+
+\bibitem[Vaisman(1994)]{Vaisman1994Poisson}
+Izu Vaisman.
+\newblock \emph{{Lectures on the Geometry of Poisson Manifolds}}, volume 118 of
+  \emph{Progress in Mathematics}.
+\newblock Birkh{\"a}user, 1994.
+\newblock ISBN 978-3-0348-9462-3.
+\newblock \doi{10.1007/978-3-0348-8495-2}.
+
+\bibitem[Dubois-Violette(2001)]{DuboisViolette2001Derivations}
+Michel Dubois-Violette.
+\newblock {Lectures on graded differential algebras and noncommutative
+  geometry}.
+\newblock 2001.
+\newblock {Related paper: Lett. Math. Phys. 57 (2001) 125-132
+  [arXiv:math/0102150]}.
+
+\bibitem[Gilkey(1995)]{Gilkey1995}
+Peter~B. Gilkey.
+\newblock \emph{Invariance Theory, the Heat Equation, and the Atiyah-Singer
+  Index Theorem}.
+\newblock CRC Press, Boca Raton, FL, second edition, 1995.
+\newblock ISBN 9780849378744.
+\newblock \doi{10.1201/9780203749798}.
+\newblock URL
+  \url{https://www.routledge.com/Invariance-Theory-the-Heat-Equation-and-the-Atiyah-Singer-Index-Theorem/Gilkey/p/book/9780849378744}.
+
+\bibitem[Kiefer(2012)]{KieferQuantumGravityBook}
+Claus Kiefer.
+\newblock \emph{{Quantum Gravity}}, volume 155 of \emph{International Series of
+  Monographs on Physics}.
+\newblock Oxford University Press, 3rd edition, 2012.
+\newblock ISBN 978-0-19-958520-5.
+\newblock \doi{10.1093/acprof:oso/9780199585205.001.0001}.
+
+\bibitem[Minwalla et~al.(2000)Minwalla, Van~Raamsdonk, and
+  Seiberg]{Minwalla:1999px}
+Shiraz Minwalla, Mark Van~Raamsdonk, and Nathan Seiberg.
+\newblock {Noncommutative perturbative dynamics}.
+\newblock \emph{JHEP}, 02:\penalty0 020, 2000.
+\newblock \doi{10.1088/1126-6708/2000/02/020}.
+
+\bibitem[Hayakawa(2000)]{Hayakawa:1999yt}
+Masashi Hayakawa.
+\newblock {Perturbative analysis on infrared aspects of noncommutative QED on
+  $\mathbb{R}^4$}.
+\newblock \emph{Phys. Lett. B}, 478:\penalty0 394--400, 2000.
+\newblock \doi{10.1016/S0370-2693(00)00381-7}.
+
+\bibitem[Grosse and Wulkenhaar(2005)]{GrosseWulkenhaar2005}
+Harald Grosse and Raimar Wulkenhaar.
+\newblock {Renormalization of $\phi^4$-Theory on Noncommutative $\mathbb{R}^4$
+  in the Matrix Base}.
+\newblock \emph{Commun. Math. Phys.}, 256:\penalty0 305--374, 2005.
+\newblock \doi{10.1007/s00220-005-1288-7}.
+
+\bibitem[Henneaux and Teitelboim(1992)]{HenneauxTeitelboim1992}
+Marc Henneaux and Claudio Teitelboim.
+\newblock \emph{{Quantization of Gauge Systems}}.
+\newblock Princeton University Press, Princeton, NJ, 1992.
+\newblock ISBN 978-0-691-03769-1.
+\newblock \doi{10.2307/j.ctv10crg0r}.
+
+\bibitem[Woodard(2015)]{OstrogradskiRef}
+R.~P. Woodard.
+\newblock {The Theorem of {Ostrogradsky}}.
+\newblock \emph{Scholarpedia}, 10\penalty0 (8):\penalty0 32243, 2015.
+\newblock \doi{10.4249/scholarpedia.32243}.
+
+\bibitem[Woodard(2014)]{Woodard:2014wia}
+R.~P. Woodard.
+\newblock {Nonlocal Models of Cosmic Acceleration}.
+\newblock \emph{Found. Phys.}, 44:\penalty0 213--233, 2014.
+\newblock \doi{10.1007/s10714-014-1718-8}.
+
+\bibitem[Weinberg(1989)]{Weinberg1989CosmoConst}
+Steven Weinberg.
+\newblock {The Cosmological Constant Problem}.
+\newblock \emph{Rev. Mod. Phys.}, 61:\penalty0 1--23, 1989.
+\newblock \doi{10.1103/RevModPhys.61.1}.
+
+\bibitem[Adame et~al.(2024)]{DESI:2024mwx}
+Karla Adame et~al.
+\newblock {DESI 2024 Results: Cosmological Constraints from the Measurements of
+  Baryon Acoustic Oscillations}.
+\newblock 4 2024.
+\newblock {arXiv preprint arXiv:2404.03000}.
+
+\bibitem[Hartle and Hawking(1983)]{HartleHawking1983WFU}
+J.~B. Hartle and S.~W. Hawking.
+\newblock {Wave Function of the Universe}.
+\newblock \emph{Phys. Rev. D}, 28:\penalty0 2960--2975, 1983.
+\newblock \doi{10.1103/PhysRevD.28.2960}.
+
+\bibitem[Zurek(2003)]{ZurekDecoherenceReview}
+Wojciech~H. Zurek.
+\newblock {Decoherence, einselection, and the quantum origins of the
+  classical}.
+\newblock \emph{Rev. Mod. Phys.}, 75:\penalty0 715--775, 2003.
+\newblock \doi{10.1103/RevModPhys.75.715}.
+
+\bibitem[Joos et~al.(2003)Joos, Zeh, Kiefer, Giulini, Kupsch, and
+  Stamatescu]{JoosZehDecoherenceBook}
+Erich Joos, H.~Dieter Zeh, Claus Kiefer, Domenico J.~W. Giulini, Joachim
+  Kupsch, and Ion-Olimpiu Stamatescu.
+\newblock \emph{{Decoherence and the Appearance of a Classical World in Quantum
+  Theory}}.
+\newblock Springer, 2nd edition, 2003.
+\newblock ISBN 978-3-540-00390-8.
+\newblock \doi{10.1007/b13268}.
+
+\bibitem[Zurek(1981)]{ZurekPointerBasis}
+W.~H. Zurek.
+\newblock {Pointer basis of quantum apparatus: Into what mixture does the wave
+  packet collapse?}
+\newblock \emph{Phys. Rev. D}, 24:\penalty0 1516--1525, 1981.
+\newblock \doi{10.1103/PhysRevD.24.1516}.
+
+\bibitem[Kiefer and Polarski(2009)]{Kiefer:2008sw}
+Claus Kiefer and David Polarski.
+\newblock {Why do cosmological perturbations look classical to us?}
+\newblock \emph{Adv. Sci. Lett.}, 2:\penalty0 164--173, 2009.
+\newblock \doi{10.1166/asl.2009.1024}.
+
+\bibitem[Nicolini(2009)]{Nicolini:2008aj}
+Piero Nicolini.
+\newblock {Noncommutative Black Holes, The Final Appeal To Quantum Gravity: A
+  Review}.
+\newblock \emph{Int. J. Mod. Phys. A}, 24:\penalty0 1229--1308, 2009.
+\newblock \doi{10.1142/S0217751X0904530X}.
+
+\bibitem[Guth(1981)]{Guth:1980zm}
+Alan~H. Guth.
+\newblock {The Inflationary Universe: A Possible Solution to the Horizon and
+  Flatness Problems}.
+\newblock \emph{Phys. Rev. D}, 23:\penalty0 347--356, 1981.
+\newblock \doi{10.1103/PhysRevD.23.347}.
+
+\bibitem[Linde(1982)]{Linde:1981mu}
+Andrei~D. Linde.
+\newblock {A New Inflationary Universe Scenario: A Possible Solution of the
+  Horizon, Flatness, Homogeneity, Isotropy and Primordial Monopole Problems}.
+\newblock \emph{Phys. Lett. B}, 108:\penalty0 389--393, 1982.
+\newblock \doi{10.1016/0370-2693(82)91219-9}.
+
+\bibitem[Albrecht and Steinhardt(1982)]{Albrecht:1982wi}
+Andreas Albrecht and Paul~J. Steinhardt.
+\newblock {Cosmology for Grand Unified Theories with Radiatively Induced
+  Symmetry Breaking}.
+\newblock \emph{Phys. Rev. Lett.}, 48:\penalty0 1220--1223, 1982.
+\newblock \doi{10.1103/PhysRevLett.48.1220}.
+
+\bibitem[Starobinsky(1980)]{Starobinsky1980}
+Alexei~A. Starobinsky.
+\newblock {A New Type of Isotropic Cosmological Models Without Singularity}.
+\newblock \emph{Phys. Lett. B}, 91:\penalty0 99--102, 1980.
+\newblock \doi{10.1016/0370-2693(80)90670-X}.
+
+\bibitem[Maldacena(2003)]{Maldacena2003NonGaussian}
+Juan~Martin Maldacena.
+\newblock {Non-Gaussian features of primordial fluctuations in single field
+  inflationary models}.
+\newblock \emph{JHEP}, 05:\penalty0 013, 2003.
+\newblock \doi{10.1088/1126-6708/2003/05/013}.
+
+\bibitem[Aschieri and Castellani(2022)]{Aschieri2022}
+Paolo Aschieri and Leonardo Castellani.
+\newblock {Noncommutative inflation and {CMB} anisotropies}.
+\newblock \emph{Phys. Rev. D}, 106\penalty0 (12):\penalty0 123527, dec 2022.
+\newblock \doi{10.1103/PhysRevD.106.123527}.
+
+\bibitem[Akrami et~al.(2020{\natexlab{a}})]{Planck2018Inflation}
+Y.~Akrami et~al.
+\newblock {{{Planck} 2018 results. X. Constraints on inflation}}.
+\newblock \emph{Astron. Astrophys.}, 641:\penalty0 A10, 2020{\natexlab{a}}.
+\newblock \doi{10.1051/0004-6361/201833887}.
+
+\bibitem[Akrami et~al.(2020{\natexlab{b}})]{Planck2018NonGaussianity}
+Y.~Akrami et~al.
+\newblock {{{Planck} 2018 results. {IX}. Constraints on primordial
+  non-Gaussianity}}.
+\newblock \emph{Astron. Astrophys.}, 641:\penalty0 A9, 2020{\natexlab{b}}.
+\newblock \doi{10.1051/0004-6361/201935891}.
+
+\bibitem[Ade et~al.(2021)]{BICEP:2021xfz}
+P.~A.~R. Ade et~al.
+\newblock {Improved Constraints on Primordial Gravitational Waves using Planck,
+  WMAP, and BICEP/Keck Observations through the 2018 Observing Season}.
+\newblock \emph{Phys. Rev. Lett.}, 127\penalty0 (15):\penalty0 151301, 2021.
+\newblock \doi{10.1103/PhysRevLett.127.151301}.
+
+\bibitem[Isham(1993)]{ProblemOfTimeRef}
+Chris~J. Isham.
+\newblock {Canonical {Quantum} {Gravity} and the {Problem} of {Time}}.
+\newblock In L.~A. Ibort and M.~A. Rodr{\'\i}guez, editors, \emph{{Integrable
+  Systems, Quantum Groups, and Quantum Field Theories}}, pages 157--287,
+  Dordrecht, 1993. Springer Netherlands.
+\newblock \doi{10.1007/978-94-011-1980-1_5}.
+
+\bibitem[Workman et~al.(2022)]{PDG2022}
+R.L. Workman et~al.
+\newblock {Review of Particle Physics}.
+\newblock \emph{PTEP}, 2022:\penalty0 083C01, 2022.
+\newblock \doi{10.1093/ptep/ptac097}.
+
+\bibitem[Perez-Garcia and Grau(2024)]{PerezGarcia2024}
+M.~A. Perez-Garcia and J.~P. Grau.
+\newblock {Noncommutative field theories and dark matter models}.
+\newblock \emph{Phys. Rev. D}, 110\penalty0 (10):\penalty0 103504, nov 2024.
+\newblock \doi{10.1103/PhysRevD.110.103504}.
+
+\bibitem[Hooper et~al.(2017)Hooper, Cholis, Linden, and Fang]{Hooper2017_HAWC}
+Dan Hooper, Ilias Cholis, Tim Linden, and Ke~Fang.
+\newblock {{HAWC} Observations Strongly Favor {Pulsar} Interpretations of the
+  {Cosmic}-{Ray} {Positron} Excess}.
+\newblock \emph{Phys. Rev. D}, 96\penalty0 (10):\penalty0 103013, 2017.
+\newblock \doi{10.1103/PhysRevD.96.103013}.
+
+\bibitem[Carr and Hawking(1974)]{CarrHawking1974PBH}
+B.~J. Carr and S.~W. Hawking.
+\newblock {Black holes in the early Universe}.
+\newblock \emph{Mon. Not. Roy. Astron. Soc.}, 168:\penalty0 399--415, 1974.
+\newblock \doi{10.1093/mnras/168.2.399}.
+
+\bibitem[Carr et~al.(2021)Carr, Kohri, Sendouda, and Yokoyama]{Carr:2020gox}
+Bernard Carr, Kazunori Kohri, Yuichiro Sendouda, and Jun'ichi Yokoyama.
+\newblock {Constraints on {Primordial} {Black} {Holes}}.
+\newblock \emph{Rept. Prog. Phys.}, 84\penalty0 (11):\penalty0 116902, 2021.
+\newblock \doi{10.1088/1361-6633/abf101}.
+
+\bibitem[Amaro-Seoane et~al.(2017)]{LISA:2017}
+Pau Amaro-Seoane et~al.
+\newblock {Laser Interferometer Space Antenna}.
+\newblock \url{https://arxiv.org/abs/1702.00786}, jan 2017.
+\newblock LISA Mission Proposal Document.
+
+\bibitem[Auclair et~al.(2023)]{Auclair2023LISA}
+Pierre Auclair et~al.
+\newblock {Cosmology with the Laser Interferometer Space Antenna}.
+\newblock \emph{Living Rev. Relativ.}, 26\penalty0 (1):\penalty0 5, 2023.
+\newblock \doi{10.1007/s41114-023-00045-y}.
+
+\bibitem[Albert et~al.(2020)]{HAWC_HESS_LIV}
+A.~Albert et~al.
+\newblock {Constraints on {Lorentz} Invariance Violation from {HAWC}
+  Observations of Gamma Rays above 100 {TeV}}.
+\newblock \emph{Phys. Rev. Lett.}, 124\penalty0 (13):\penalty0 131101, 2020.
+\newblock \doi{10.1103/PhysRevLett.124.131101}.
+
+\bibitem[{A. A. Abdo and others}(2009)]{FermiLAT_GRB090510_LIV}
+{A. A. Abdo and others}.
+\newblock {A limit on the variation of the speed of light arising from quantum
+  gravity effects}.
+\newblock \emph{Nature}, 462:\penalty0 331--334, 2009.
+\newblock \doi{10.1038/nature08574}.
+
+\bibitem[Aab et~al.(2023)]{PierreAuger:2021tog}
+A.~Aab et~al.
+\newblock {Search for Lorentz Invariance Violation in the Dispersion Relation
+  of Ultra-High-Energy Cosmic Rays Detected at the Pierre Auger Observatory}.
+\newblock \emph{JHEP}, 01:\penalty0 066, 2023.
+\newblock \doi{10.1007/JHEP01(2023)066}.
+
+\bibitem[Kostelecký and Russell(2011)]{KosteleckyDataTables}
+V.~Alan Kostelecký and Neil Russell.
+\newblock {Data tables for {Lorentz} and {CPT} violation}.
+\newblock \emph{Rev. Mod. Phys.}, 83:\penalty0 11--31, 2011.
+\newblock \doi{10.1103/RevModPhys.83.11}.
+\newblock {Updates available on arXiv}.
+
+\bibitem[{Euclid Collaboration}(2024)]{EuclidCollaboration}
+{Euclid Collaboration}.
+\newblock {{Euclid}: Early Release Observations -- an overview}, 2024.
+
+\bibitem[Banks et~al.(1997)Banks, Fischler, Shenker, and Susskind]{BFSS1997}
+Tom Banks, Willy Fischler, Stephen~H. Shenker, and Leonard Susskind.
+\newblock {{M} Theory as a Matrix Model: A Conjecture}.
+\newblock \emph{Phys. Rev. D}, 55:\penalty0 5112--5128, 1997.
+\newblock \doi{10.1103/PhysRevD.55.5112}.
+
+\bibitem[Ishibashi et~al.(1997)Ishibashi, Kawai, Kitazawa, and
+  Tsuchiya]{IKKT1997}
+Nobuyuki Ishibashi, Hikaru Kawai, Yoshihisa Kitazawa, and Asato Tsuchiya.
+\newblock {A {Large-N} Reduced Model as {Superstring}}.
+\newblock \emph{Nucl. Phys. B}, 498:\penalty0 467--491, 1997.
+\newblock \doi{10.1016/S0550-3213(97)00290-3}.
+
+\bibitem[Ashtekar et~al.(2006)Ashtekar, Pawlowski, and Singh]{Ashtekar:2006wn}
+Abhay Ashtekar, Tomasz Pawlowski, and Parampreet Singh.
+\newblock {Quantum Nature of the Big Bang: Improved dynamics}.
+\newblock \emph{Phys. Rev. D}, 74:\penalty0 084003, 2006.
+\newblock \doi{10.1103/PhysRevD.74.084003}.
+
+\bibitem[Bonanno et~al.(2017)Bonanno, Koch, and Platania]{Bonanno:2017pkg}
+Alfio Bonanno, Benjamin Koch, and Alessia Platania.
+\newblock {Resolution of the Black Hole Singularity in Asymptotically Safe
+  Quantum Gravity}.
+\newblock \emph{Universe}, 3\penalty0 (3):\penalty0 56, 2017.
+\newblock \doi{10.3390/universe3030056}.
+
+\bibitem[Ambjorn et~al.(2005{\natexlab{a}})Ambjorn, Jurkiewicz, and
+  Loll]{Ambjorn:2005qt}
+Jan Ambjorn, Jerzy Jurkiewicz, and Renate Loll.
+\newblock {Reconstructing the universe}.
+\newblock \emph{Phys. Rev. D}, 72:\penalty0 064014, 2005{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRevD.72.064014}.
+
+\bibitem[Eichhorn(2019)]{Eichhorn:2018yfc}
+Astrid Eichhorn.
+\newblock {An asymptotically safe guide to quantum gravity and matter}.
+\newblock \emph{Front. Astron. Space Sci.}, 5:\penalty0 47, 2019.
+\newblock \doi{10.3389/fspas.2018.00047}.
+
+\bibitem[Bousso and Polchinski(2000)]{Bousso:2000xa}
+Raphael Bousso and Joseph Polchinski.
+\newblock {Quantization of four form fluxes and dynamical neutralization of the
+  cosmological constant}.
+\newblock \emph{JHEP}, 06:\penalty0 006, 2000.
+\newblock \doi{10.1088/1126-6708/2000/06/006}.
+
+\bibitem[Ashtekar and Singh(2011)]{Ashtekar:2009mb}
+Abhay Ashtekar and Parampreet Singh.
+\newblock {Loop Quantum Cosmology: A Status Report}.
+\newblock \emph{Class. Quant. Grav.}, 28:\penalty0 213001, 2011.
+\newblock \doi{10.1088/0264-9381/28/21/213001}.
+
+\bibitem[Bonanno and Reuter(2002)]{Bonanno:2001xi}
+Alfio Bonanno and Martin Reuter.
+\newblock {Cosmology of the Planck era from a renormalization group for quantum
+  gravity}.
+\newblock \emph{Phys. Rev. D}, 65:\penalty0 043508, 2002.
+\newblock \doi{10.1103/PhysRevD.65.043508}.
+
+\bibitem[Ambjorn et~al.(2008)Ambjorn, Gorlich, Jurkiewicz, and
+  Loll]{Ambjorn:2008wc}
+J.~Ambjorn, A.~Gorlich, J.~Jurkiewicz, and R.~Loll.
+\newblock {The Nonperturbative Quantum Gravity Phase Diagram}.
+\newblock \emph{JHEP}, 09:\penalty0 043, 2008.
+\newblock \doi{10.1088/1126-6708/2008/09/043}.
+
+\bibitem[Barrau et~al.(2018)Barrau, Martineau, and Moulin]{Barrau:2017tcd}
+Aurelien Barrau, Killian Martineau, and Flora Moulin.
+\newblock {A status report on the phenomenology of black holes in loop quantum
+  gravity: Evaporation, ripples, and standard model}.
+\newblock \emph{Universe}, 4\penalty0 (1):\penalty0 10, 2018.
+\newblock \doi{10.3390/universe4010010}.
+
+\bibitem[Ambjorn et~al.(2005{\natexlab{b}})Ambjorn, Jurkiewicz, and
+  Loll]{Ambjorn:2005db}
+J.~Ambjorn, J.~Jurkiewicz, and R.~Loll.
+\newblock {Spectral dimension of the universe}.
+\newblock \emph{Phys. Rev. Lett.}, 95:\penalty0 171301, 2005{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRevLett.95.171301}.
+
+\bibitem[Rovelli(2004)]{RovelliLQG}
+Carlo Rovelli.
+\newblock \emph{{Quantum Gravity}}.
+\newblock Cambridge University Press, 2004.
+\newblock ISBN 978-0-521-83733-0.
+\newblock \doi{10.1017/CBO9780511755804}.
+
+\bibitem[Reuter and Saueressig(2012)]{Reuter:2012id}
+Martin Reuter and Frank Saueressig.
+\newblock {Quantum Einstein Gravity}.
+\newblock \emph{New J. Phys.}, 14:\penalty0 055022, 2012.
+\newblock \doi{10.1088/1367-2630/14/5/055022}.
+
+\bibitem[Loll(2020)]{Loll:2019rdj}
+Renate Loll.
+\newblock {Quantum Gravity from Causal Dynamical Triangulations: A Review}.
+\newblock \emph{Class. Quant. Grav.}, 37\penalty0 (1):\penalty0 013002, 2020.
+\newblock \doi{10.1088/1361-6382/ab2f24}.
+
+\bibitem[Rivasseau(2010)]{Rivasseau:2010}
+Vincent Rivasseau.
+\newblock {An Introduction to Noncommutative Renormalization}.
+\newblock In \emph{{Proceedings of Science: Correlations and Connectivity:
+  Geometric Aspects of Physics and Probability}}, volume CNCFG2010 of
+  \emph{PoS}, page 004, 2010.
+\newblock \doi{10.22323/1.118.0004}.
+\newblock URL \url{https://pos.sissa.it/118/0004/}.
+
+\end{thebibliography}

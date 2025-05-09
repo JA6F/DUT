@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DUT_Sol0FinalENGv2.0.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+Warning--I didn't find a database entry for "ChamseddineConnes1997"
+Warning--I didn't find a database entry for "Earman1989"
+Warning--I didn't find a database entry for "Lang:2019uug"
+Warning--I didn't find a database entry for "Witten:1984rs"
+Warning--I didn't find a database entry for "Hogan:1986qda"
+Warning--empty journal in DuboisViolette2001Derivations
+Warning--empty journal in DESI:2024mwx
+You've used 75 entries,
+            2481 wiz_defined-function locations,
+            1161 strings with 23447 characters,
+and the built_in function-call counts, 33504 in all, are:
+= -- 2586
+> -- 2383
+< -- 67
++ -- 890
+- -- 738
+* -- 2901
+:= -- 5778
+add.period$ -- 323
+call.type$ -- 75
+change.case$ -- 142
+chr.to.int$ -- 73
+cite$ -- 77
+duplicate$ -- 1452
+empty$ -- 2638
+format.name$ -- 859
+if$ -- 6845
+int.to.chr$ -- 3
+int.to.str$ -- 76
+missing$ -- 84
+newline$ -- 479
+num.names$ -- 229
+pop$ -- 506
+preamble$ -- 1
+purify$ -- 75
+quote$ -- 0
+skip$ -- 851
+stack$ -- 0
+substring$ -- 1266
+swap$ -- 192
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 492
+warning$ -- 2
+while$ -- 242
+width$ -- 0
+write$ -- 1172
+(There were 7 warnings)
