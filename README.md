@@ -23,11 +23,10 @@ The DUT focuses on unifying existing physical frameworks while tackling cosmolog
 ### Objectives:
 1.  **Theoretical Unification**:
     -   Develop a cohesive model that reconciles the mathematical structures of General Relativity and Quantum Mechanics.
-2.  **Cosmological Understanding**: // Quitar el espacio extra si no es intencional
+2.  **Cosmological Understanding**:
     -   Provide dynamic scalar fields to describe dark matter and dark energy.
-3.  **Fundamental Constants**: // Quitar el espacio extra si no es intencional
+3.  **Fundamental Constants**:
     -   Propose mechanisms to stabilize the cosmological constant and resolve the quantum hierarchy problem.
-
 ---
 
 ## Key Innovations
