@@ -21,14 +21,12 @@ The **Discrete Unification Theory (DUT)** proposes a novel theoretical framework
 The DUT focuses on unifying existing physical frameworks while tackling cosmological challenges such as dark matter, dark energy, and the cosmological constant. The theory is built upon the principles of **Dynamic Non-Commutative Geometry (DNCG)**, redefining spacetime at quantum levels and offering solutions that extend beyond the limitations of traditional models.
 
 ### Objectives:
-1. **Theoretical Unification**:
-   - Develop a cohesive model that reconciles the mathematical structures of General Relativity and Quantum Mechanics.
-   
-2. **Cosmological Understanding**:
-   - Provide dynamic scalar fields to describe dark matter and dark energy.
-   
-3. **Fundamental Constants**:
-   - Propose mechanisms to stabilize the cosmological constant and resolve the quantum hierarchy problem.
+1.  **Theoretical Unification**:
+    -   Develop a cohesive model that reconciles the mathematical structures of General Relativity and Quantum Mechanics.
+2.  **Cosmological Understanding**: // Quitar el espacio extra si no es intencional
+    -   Provide dynamic scalar fields to describe dark matter and dark energy.
+3.  **Fundamental Constants**: // Quitar el espacio extra si no es intencional
+    -   Propose mechanisms to stabilize the cosmological constant and resolve the quantum hierarchy problem.
 
 ---
 
@@ -56,12 +54,6 @@ This repository serves as a platform to share the theoretical foundation of DUT,
 
 ---
 
-## Repository Contents
-
-- [DUTv20.0_English.pdf](./DUT_Sol0FinalENGv2.0.pdf): The main document outlining the Discrete Unification Theory.
-- [TUDv20.0_Spanish.pdf](./DUT_Sol0FinalSPv2.0.pdf): Spanish version of the theory.
----
-
 ## Contribution Opportunities
 
 Scholars, researchers, and enthusiasts are invited to engage with this project. Contributions may include:
@@ -87,7 +79,7 @@ We welcome collaboration from diverse fields to further develop and validate the
 - **Email**: [jgrau@live.com](mailto:jgrau@live.com)  
 
 For academic inquiries, discussions, or collaborative opportunities, please reach out via email.
-## "Keywords"
+
 ## Keywords / Palabras clave
 - Discrete Unification Theory
 - General Relativity
