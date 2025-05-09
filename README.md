@@ -2,8 +2,8 @@
 Discrete Unification Theory
 
 # Repository Contents
-- [TUDv17.9_Ingles.pdf](./TUDv17.9_Ingles.pdf): The main document outlining the Discrete Unification Theory.
-- [TUDv17.8_Spanish.pdf](./TUDv17.8_Spanish.pdf): Spanish version of the theory.
+- [TUDv17.9_Ingles.pdf](./DUT_Sol0FinalENGv2.0.pdf): The main document outlining the Discrete Unification Theory.
+- [TUDv17.8_Spanish.pdf](./DUT_Sol0FinalSPv2.0.pdf): Spanish version of the theory.
   
 <p align="center">
   <img src="OIG23.ZNLJ.png" alt="DUT" width="800">
