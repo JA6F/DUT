@@ -58,7 +58,7 @@ The theoretical documents are written in LaTeX. This section provides details on
 
 The LaTeX source code and related files are organized as follows:
 
--   **`/` (Root Directory):** Contains the main published PDF versions of the theory (`DUT_Sol0FinalENGv2.0.pdf`, `TUDv20.0_Spanish.pdf`), this `README.md` file, the `.gitignore` file, and other general project files.
+-   **`/` (Root Directory):** Contains the main published PDF versions of the theory (`DUT_ENGv2.0.pdf`, `DUT_SPv2.0.pdf`), this `README.md` file, the `.gitignore` file, and other general project files.
 -   **`/main/`:** This directory contains all the LaTeX source files for the theory.
     -   `/main/main.tex`: This is the primary LaTeX file. You should compile this file to generate the document.
     -   `/main/figures/`: This subfolder holds all the images and figures used within the LaTeX document.
